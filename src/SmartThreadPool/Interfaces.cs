@@ -3,6 +3,8 @@ using System.Threading;
 
 namespace Amib.Threading
 {
+    //TODO(Umut): This document will be splitted separated documents.
+
 	#region Delegates
 
 	/// <summary>
